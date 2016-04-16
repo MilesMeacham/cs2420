@@ -1,0 +1,15 @@
+﻿Build started 4/14/2016 9:50:08 PM.
+     1>Project "C:\Users\Miles Meacham\Documents\School\CS 2420\Program06-Sorting\Program06-Sorting\Program06-Sorting.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Driver.cpp
+         Driver.cpp
+     1>c:\users\miles meacham\documents\school\cs 2420\program06-sorting\program06-sorting\driver.cpp(58): warning C4101: 'x': unreferenced local variable
+     1>c:\users\miles meacham\documents\school\cs 2420\program06-sorting\program06-sorting\driver.cpp(369): warning C4101: 'data': unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Miles Meacham\Documents\School\CS 2420\Program06-Sorting\Debug\Program06-Sorting.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Miles Meacham\Documents\School\CS 2420\Program06-Sorting\Debug\Program06-Sorting.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Miles Meacham\Documents\School\CS 2420\Program06-Sorting\Debug\Program06-Sorting.lib" /MACHINE:X86 Debug\Driver.obj
+         Program06-Sorting.vcxproj -> C:\Users\Miles Meacham\Documents\School\CS 2420\Program06-Sorting\Debug\Program06-Sorting.exe
+     1>Done Building Project "C:\Users\Miles Meacham\Documents\School\CS 2420\Program06-Sorting\Program06-Sorting\Program06-Sorting.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.33
